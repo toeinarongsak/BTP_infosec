@@ -1,1 +1,0 @@
-Narongsak Thuenkerd
