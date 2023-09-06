@@ -1,1 +1,6 @@
-Sarayut Soonthonchuen
+ชื่อ Sarayut Soonthonchuen
+ชื่อเล่น บอส
+อายุ 21
+เพศ ชาย
+ส่วนสูง 169
+นำ้หนัก 56
